@@ -1,5 +1,6 @@
 var data = require("./products.json")
 
 // Write your solutions below
-
-console.log(data["items"]);
+while(items kind == "shopping#product")
+	if(kind.name.equals = "shopping#product")
+console.log(data[items]);
